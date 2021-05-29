@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 3000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(0.211546,0,0,1.32609,375.875,-674.187)">
-        <path d="M4071.87,1268.44L4339.58,1167.9L3115.7,1167.9C2744.26,1167.9 2408.78,1203.31 2263.57,1257.85L-196.841,2181.9L1027.04,2181.9C1398.48,2181.9 1733.95,2146.49 1879.17,2091.95C2357.01,1912.49 4071.87,1268.44 4071.87,1268.44Z"/>
+<svg width="100%" height="100%" viewBox="0 0 3000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.264691,0,0,1.65923,52.1022,-1279.05)">
+        <path d="M3988.14,1262.77L4202.09,1182.41L3052.89,1182.41C2756.03,1182.41 2487.91,1210.72 2371.85,1254.3L-59.358,2167.39L1089.84,2167.39C1386.7,2167.39 1654.82,2139.09 1770.88,2095.5C2211.07,1930.18 3988.14,1262.77 3988.14,1262.77Z" style="stroke:white;stroke-width:0.84px;"/>
     </g>
-    <path d="M2185.53,932.932L2160.74,874.554L1818.4,874.554L1247.24,2219.21L1506.15,2219.21C1584.72,2219.21 1655.69,2172.25 1686.41,2099.93C1686.41,2099.93 1989.57,1386.22 1989.57,1386.22C2085.63,1612.37 2233.47,1960.42 2292.72,2099.93C2323.44,2172.25 2394.41,2219.21 2472.99,2219.21L2731.89,2219.21L2185.53,932.932Z"/>
+    <g transform="matrix(1.25122,0,0,1.25122,-418.201,-435.49)">
+        <path d="M2167.82,940.456L2148,893.799L1831.13,893.799L1276.32,2199.97L1519.43,2199.97C1582.23,2199.97 1638.95,2162.43 1663.5,2104.63C1663.5,2104.63 1989.57,1336.99 1989.57,1336.99C1989.57,1336.99 2315.63,2104.63 2315.63,2104.63C2340.18,2162.43 2396.9,2199.97 2459.7,2199.97L2702.81,2199.97L2167.82,940.456Z" style="stroke:white;stroke-width:0.8px;"/>
+    </g>
 </svg>
